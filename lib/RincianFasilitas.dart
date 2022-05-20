@@ -1,8 +1,8 @@
 import 'package:flutter/widgets.dart';
 import 'package:flutter/material.dart';
 
-class RincianFakultas extends StatelessWidget {
-  const RincianFakultas(
+class RincianFasilitas extends StatelessWidget {
+  const RincianFasilitas(
       {Key? key,
       required this.name,
       required this.desc,
